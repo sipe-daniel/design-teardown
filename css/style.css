@@ -713,3 +713,12 @@ div.first-content .wrappersubgridzero-article .second-line > figure a > img.bio-
   padding-left: 5em;
   padding-right: 5em;
 }
+
+div.wrappersubgridone-publicity div.space-publicity a.link-transforminblok > div img {
+  width: 50%;
+  height: 20%;
+}
+
+div.wrappersubgrid div.wrappersubgrid-logo div.logo > a > picture img {
+  height: 70px;
+}

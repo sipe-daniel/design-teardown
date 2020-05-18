@@ -12,7 +12,7 @@ Additional description about the project and its features.goy
 
 ## Live Demo
 
-[Live Demo Link](https://github.com/sipe-daniel/design-teardown/blob/feature-main-page/index.html)
+[Live Demo Link](https://rawcdn.githack.com/sipe-daniel/design-teardown/cce394c55269d818df905eafde7a31985d30c489/index.html)
 
 ## Author
 

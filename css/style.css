@@ -609,6 +609,12 @@ footer.mainfooter div.wrappersubgridnine-link {
   bottom: -33%;
 }
 
+@media screen and (max-width: 992px) {
+  .wrappersubgrid-sixth > .second-block {
+    display: none;
+  }
+}
+
 div.twelfth-content .wrappersubgrideight div > img {
   max-width: calc(20em + 4vw);
   padding-top: 1em;
